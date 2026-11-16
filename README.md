@@ -134,6 +134,15 @@ node seed_coupons.js
   ```
   The application will be served at `http://localhost:5173`.
 
+  qgokuwbclhwxpbsu -- google app password
+  54601-1f949
+  be0d2-5adf8
+  68133-bea7a
+  0c97e-220cd
+  39ff5-481d2
+  c4fac-d7713
+  841ff-d451d bf44c-c4a72 48312-e8b3f 53997-52e7a bbfbd-d1edc 94f4c-46cb1 06deb-eaf62 c0c17-99cd4 3af38-8b560 4e83f-ddfe2
+
 ---
 
 ## 📊 System Monitoring & Analytics
