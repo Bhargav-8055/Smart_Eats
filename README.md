@@ -140,16 +140,3 @@ node seed_coupons.js
 
 * **Prometheus**: Accessible at `http://localhost:9090` (Scrapes application performance metrics from `/metrics`).
 * **Grafana**: Accessible at `http://localhost:3000` (Visualize Prometheus server metrics dynamically).
-
-### index.html
-#### <!DOCTYPE html>
-#### <html lang="en">
-#### <head>
-####    <meta charset="UTF-8">
-####    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-####    <title>Document</title>
-#### </head>
-#### <body>
-    
-#### </body>
-#### </html>
