@@ -100,7 +100,6 @@ Create a `.env` file inside the `backend` folder:
   CLOUDINARY_API_KEY="your-cloudinary-key"
   CLOUDINARY_API_SECRET="your-cloudinary-secret"
   RAZORPAY_KEY_ID="your-razorpay-key-id"
-  46cc8ffaf236b571cc4ec15d6640b062 -> https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${api}&units=metric
   RAZORPAY_KEY_SECRET="your-razorpay-secret"
   ```
 
